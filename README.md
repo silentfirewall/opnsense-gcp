@@ -33,4 +33,4 @@ Here's a concise summary of the **OPNsense installation guide on Google Cloud Pl
 
 ---
 
-This process sets up a secure, customizable firewall/router on GCP using OPNsense. For detailed commands or troubleshooting, refer to the [full guide](https://www.zenarmor.com/docs/network-security-tutorials/how-to-install-opnsense-on-google-cloud-platform).
+This process sets up a secure, customizable firewall/router on GCP using OPNsense. 
