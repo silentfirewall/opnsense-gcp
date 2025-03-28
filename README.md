@@ -1,4 +1,4 @@
-# Opnsense on GCP
+# OPNsense on GCP
 Here's a concise summary of the **OPNsense installation guide on Google Cloud Platform (GCP)**:
 
 ---
